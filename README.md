@@ -2,6 +2,8 @@
 
 This repository contains the the sample code necessary to provision an EKS clusters with the ALB Ingress Controller.
 
+Please go here to read the Article using this code - [Kubernetes: Provisioning clusters on AWS with Terraform](https://blog.devgenius.io/kubernetes-provisioning-clusters-on-aws-with-terraform-53b06371645c)
+
 Code samples:
 
 1. [Provisioning EKS with eksctl](eksctl/README.md)
